@@ -1,0 +1,103 @@
+- Food:
+• Restaurants
+>McDonald’s, Burger King, KFC, Wendy’s, Five Guys Famous Burgers and Fries, Whataburger, In-N-Out Burger,
+Carl’s Jr., Hardee’s, Jack-in-the-Box, White Castle, Arby’s, Chick-fil-A, Popeyes Chicken & Biscuits, Dunkin’
+Donuts, Krispy Kreme, Tim Hortons, Qdoba, Chipotle, Baja Fresh, Taco Bell, El Pollo Loco, Bruegger’s Bagels,
+Panera Bread, Au Bon Pan, Cinnabon, Auntie Anne’s, Quizno’s Classic Subs, Subway, Jimmy John’s, Pizza Hut,
+Dominos, Papa John’s, Little Caesars, Boston Market, Sonic Drive-In, Long John Silver’s, Sbarro, Panda Express,
+Applebee’s
+• Ice cream
+>Dairy Queen, Baskin-Robin’s, TCBY, Ben & Jerry’s, Cold Stone Creamery, Blue Bell, Haagen-Dazs, Breyers,
+Klondike, Drumstick, Skinny Cow
+• Chocolate
+>3 Musketeers, 100 Grand Bar, Aero, Almond Joy, Baby Ruth, Butterfinger, Clark Bar, Nestle Crunch, Dove Bar,
+Heath bar, Hershey bar, KitKat, Krackel, Lindor, Mars Bar, Milky Way, Oh Henry!, PayDay, Reese’s Peanut Butter
+Cup, Rolo, York Peppermint Pattie, Sky Bar, Snickers, Take 5, Toblerone, Twix, Whatchamacallit, Wonka Bar,
+Mars, Hershey, Cadbury, Nestle, Necco
+• Cookies
+>Chips Ahoy!, Girl Scout Cookies, Pepperidge Farms, Oreo, Nilla, Nabisco, Keebler, Wheat Thins, Triscuits,
+Saltines
+• Chips
+>Lays, Pringles, Doritos, Cheetos, Tostitos
+• Gum
+>Wrigley, Fruit Stripe, Bubble Yum, Juicy Fruit, Chiclets, Trident, Bazooka
+• Nuts
+>Planters, Wonderful Pistachios, Emerald
+• Condiments
+>ketchup, mustard, Heinz, mayonnaise
+
+- Drinks:
+• Soda
+>Coca Cola, Pepsi, Mountain Dew, A&W, Mug Root Beer, Crush, Fanta, Sprite, 7-Up, Canada Dry, RC Cola
+• Alcohol
+>vodka, Absolut, whiskey, wine, beer, Coors Lite, Miller Lite, BRB
+• Water
+>Aquafina, Evian, Perrier, Dasani, Nestle Waters, Deer Park Natural Spring Water
+• Coffee
+>Eight O’Clock, Starbucks, Maxwell House, Folgers, Keurig
+• Energy drinks
+>Monster, Red Bull, Four Loko, Five-Hour Energy
+• Juice
+>Minute Maid, Florida’s Natural, Sunny D, Capri Sun
+• Chocolate drinks
+>Milo, Ovaltine, Nesquik
+
+- Cars:
+>Nissan, Kia, Audi, Subaru, Honda, Chevrolet, Porsche, Toyota, Ford, Rolls Royce, Mitsubishi, Hyundai, Oldsmobile, Jaguar, Volvo, Mercedes Benz, General Motors, Mazda, BMW, Volkswagen, Hummer, Tesla, Lincoln, Jeep,
+Land Rover
+
+- Electronics:
+• Phones
+>Samsung, LG, iPhone, Motorolla, Ericsson, Pantech, Nokia, Google Nexus, BlackBerry, HTC, Siemens, Palm
+Pilot, Alcatel
+• Service providers
+>Comcast, Dish, DirecTV, Google Fiber, Time Warner Cable, Verizon, T-mobile, Sprint, Cingular, AT&T, Nextel,
+Bell South, Pacific Bell, Virgin Mobile, Boost Mobile, Cricket Wireless
+• Computers
+>Dell, HP, Acer, Asus, Lenovo, Sony VAIO, Packard-Bell, Gateway, IBM, Apple, Compaq, Wang Laboratories,
+Microsoft
+• Televisions
+>Sony, LG, Panasonic, Sanyo, Itachi, Samsung, RCA, Vizio, Toshiba, Sharp, Magnavox, Westinghouse, JVC, General Electric
+
+- Financial institutions:
+• Insurance
+>Nationwide, Farmer’s, Northwestern Mutual, Prudential Insurance Company of America, Progressive Insurance,
+E-surance, MetLife, Highmark, AETNA, United American Insurance Company, UnitedHealthcare, Delta Dental,
+Allstate, GEICO, Wells Fargo
+• Banks
+>CITIbank, Bank of America, Wells Fargo, Capital One, First Niagara, PNC Bank, BNY Mellon, HSBC, USAA
+
+- Travel:
+• Airlines
+>United, American, Delta, Frontier, Southwest, Spirit, Etihad, Emirates, Singapore, Thai, Qatar, Turkish
+• Vacation, toursim, resort, cruise, car rentals, train
+
+- Sports:
+• Equipment
+>football, soccer, baseball, golf, basketball, hockey, ski, surfing, watersports, sailing, snowboard, ice skating, gymnastics, bowling, curling, volleyball, tennis, squash, swimming, diving, cross country, cross country skiing, cricket,
+marathon, triathalon, rowing, kayaking, fencing, martial arts, ping pong/table tennis, badminton, equestrian, polo,
+water polo, shooting, archery, cycling, speed skating, track and field
+
+- Cosmetics:
+>Estee Lauder, Maybelline, Cover Girl, L’Oreal, Neutrogena, Oil of Olay, Physician’s Formula, Avon, Burt’s Bees,
+Lancome, Chanel, Clinique, Almay, Benefit, Nars, Urban Decay, Dior, Iman, Dermablend, ShiSeido, Revlon, Max
+Factor, Kiehl’s, Armani, Laura Mercier, Bobbi Brown, Clarins, Givenchy, Sephora, Elizabeth Arden, The Body
+Shop, Mac, Origins, Nivea, Smashbox, Bareminerals, Stila
+
+- Clothing:
+>Levi’s, Lucky, Madewell, J. Crew, Gap, American Eagle, Bebe, Loft, Ann Taylor, Tommy Hilfiger, Ralph Lauren,
+The Limited, LaCoste, True Religion, Kate Spade, Tory Birch, BCBG, Land’s End, LL. Bean, Talbots, Lane Bryant,
+Calvin Klein, Anne Klein, Nike, Reebok, Under Armor, Children’s Palace, Gymboree, Carter’s, Coach(they have
+clothing), Burberry, Guess, Wrangler, Vera Wang, Lee, Adidas, Zara, Uniqlo, Columbia Sportswear, North Face,
+Converse, New Balance, Eddie Bauer, Van Heusen, Fubu, Kenneth Cole, Ecko, Swatch, Prada, Speedo, Versace,
+Hugo Boss, Gucci, Chanel, Gloria Vanderbilt, Izod, Fruit of the Loom, Hanes, Jockey, Puma, Abercrombie and
+Fitch, Old Navy, H and M, Urban Outfitters, Converse, Armani, Brooks Brothers, J.S. Bank Clothiers, Sean John,
+Victoria’s Secret, DKNY, Aerostaple, Liz Claiborne, Arizona, Hollister, Diesel, Timberland, Jessica Simpson,
+Banana Republic, Fila, Petite Sophisticates, Cache, Delia’s, Esprit, Club Monaco, Burton, Osh Kosh Bgosh, LuluLemon, Athleta, Eileen Fisher, Maidenform, Eileen West, Bally’s
+
+- Publics service announcements (PSA’s):
+• Environment, nature, animal rights, PETA
+• Domestic violence, human rights
+• Safe driving, safety
+• Self-esteem, bullying, cuberbullying
+• Smoking, healthcare
