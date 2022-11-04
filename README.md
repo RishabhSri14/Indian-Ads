@@ -10,7 +10,7 @@
 
 ## Step 2:
 > Install Dendencies: pip install google-ap-client
-> 
+> Run CreateFileStructure.py to created data file structure
 
 ## Step 3:  
 
